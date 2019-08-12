@@ -1,0 +1,6 @@
+name: ai-workshop-2019
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - sklearn
