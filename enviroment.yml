@@ -2,5 +2,9 @@ name: ai-workshop-2019
 channels:
   - conda-forge
 dependencies:
+- python>=3.5
+- anaconda
+- pip
+- pip:
   - numpy
   - scikit-learn
